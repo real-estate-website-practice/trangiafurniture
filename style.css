@@ -215,6 +215,15 @@
       margin:20px 0;
     }
 
+.service-box img {
+
+    width:100%;
+    height:180px;
+    object-fit:cover;
+    border-radius:12px;
+    margin-bottom:15px;
+}
+
     /* STATS */
 
     .stats{
